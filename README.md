@@ -19,7 +19,7 @@ Compress videos with FFmpeg made easy with drag'n'drop.
 **Hardware:** &nbsp;*Runs on almost anything. In general, the better the hardware, the faster the compression process.*
 
 ## Installation
-1. [Download a release package.](https://github.com/Zeratoxx/Drag-n-Compress/releases)  
+1. [Download a release package.](https://github.com/dima333750/Drag-n-Compress-video/releases)  
    > A release package is self-contained. That means FFmpeg is included in a release package. There are no requirements to be met.  
    > Currently used version of [FFmpeg](https://ffmpeg.org/): [`Codex FFmpeg v5.1.2-full_build`](https://github.com/GyanD/codexffmpeg/releases/tag/5.1.2)
 1. Unzip the downloaded package to a location of your choice.
