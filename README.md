@@ -1,5 +1,5 @@
 # Drag'n'Compress
-Author: Nils Badtke
+Author: Nils Badtke + dima
 
 ## Description
 Compress videos with FFmpeg made easy with drag'n'drop.
