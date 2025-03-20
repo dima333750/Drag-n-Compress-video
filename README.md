@@ -28,6 +28,7 @@ Compress videos with FFmpeg made easy with drag'n'drop.
 ## Usage
 After running the installation script, you can simply drag'n'drop (drag and drop) the video file(s) onto `dragAndDropVideoFileHere.ps1`.  
 You can also create one or more shortcuts to `dragAndDropVideoFileHere.ps1` anywhere and drag'n'drop the video file(s) onto the shortcut(s).
+Use additional pre-installed files. GPU AMD Acceleration are fast, but reduce the quality.
 
 ### Advanced usage
 It is possible for video files to contain multiple audio tracks.
